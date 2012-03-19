@@ -18,6 +18,6 @@
 .DS_Store
 *~
 doc/
-*.sap
+*.swp
 .project
 bundler_stubs/
